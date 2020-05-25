@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapisivanjeuTekstualniDokument", "ZapisivanjeuTekstualniDokument\ZapisivanjeuTekstualniDokument.csproj", "{34083D57-A372-4BAC-9EC3-B44E5F8D3BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34083D57-A372-4BAC-9EC3-B44E5F8D3BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34083D57-A372-4BAC-9EC3-B44E5F8D3BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34083D57-A372-4BAC-9EC3-B44E5F8D3BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34083D57-A372-4BAC-9EC3-B44E5F8D3BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C4E1FF-DC0D-4FCB-8C8E-5592EC3328ED}
+	EndGlobalSection
+EndGlobal

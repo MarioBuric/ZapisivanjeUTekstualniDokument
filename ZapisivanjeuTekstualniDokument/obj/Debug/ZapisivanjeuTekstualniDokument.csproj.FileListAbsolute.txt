@@ -1,0 +1,6 @@
+C:\Users\korisnik\source\repos\ZapisivanjeuTekstualniDokument\ZapisivanjeuTekstualniDokument\bin\Debug\ZapisivanjeuTekstualniDokument.exe.config
+C:\Users\korisnik\source\repos\ZapisivanjeuTekstualniDokument\ZapisivanjeuTekstualniDokument\bin\Debug\ZapisivanjeuTekstualniDokument.exe
+C:\Users\korisnik\source\repos\ZapisivanjeuTekstualniDokument\ZapisivanjeuTekstualniDokument\bin\Debug\ZapisivanjeuTekstualniDokument.pdb
+C:\Users\korisnik\source\repos\ZapisivanjeuTekstualniDokument\ZapisivanjeuTekstualniDokument\obj\Debug\ZapisivanjeuTekstualniDokument.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\ZapisivanjeuTekstualniDokument\ZapisivanjeuTekstualniDokument\obj\Debug\ZapisivanjeuTekstualniDokument.exe
+C:\Users\korisnik\source\repos\ZapisivanjeuTekstualniDokument\ZapisivanjeuTekstualniDokument\obj\Debug\ZapisivanjeuTekstualniDokument.pdb
